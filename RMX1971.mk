@@ -18,4 +18,4 @@ PRODUCT_MANUFACTURER := Realme
 
 PRODUCT_GMS_CLIENTID_BASE := android-realme
 
-PRODUCT_OVERRIDE_FINGERPRINT := google/raven/raven:12/S3B1.220218.004/8242181:user/release-keys
+PRODUCT_OVERRIDE_FINGERPRINT := google/raven/raven:12/SP2A.220405.004/8233519:user/release-keys
